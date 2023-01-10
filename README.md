@@ -7,5 +7,5 @@ Then, You have to go to **Bluetooth & other devices**, select **More Bluetooth o
 
 ## Expressions of Gratitude 😊
 * Publicly thanks 😊
-* Donate with SOLANA to this address: `BGADeDwPhghunkZevrT1rxBfRTYFDQwhRABUWgX8EWGD`
+* Donate with SOLANA to this address: `GkEAGdnGz7w9KVw1ysd4XyGwMaqGVzoR6yeHhGHD4x7V`
 * Donate with ETH to this address: `0x879e34c7Ae54A6A3936d7eD9A1c3E81Ae52C4`
